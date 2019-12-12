@@ -6,5 +6,6 @@ namespace ConsoleApp1
 {
     class Person
     {
+        public int MyProperty { get; set; }
     }
 }
